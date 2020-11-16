@@ -1,6 +1,6 @@
 ---
-
-
+layout: post
+title: Blogging Like a Hacker
 ---
 
 <h1 id="welcome-to-stackedit">Welcome to StackEdit!</h1>
