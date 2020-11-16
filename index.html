@@ -1,6 +1,23 @@
 ---
 layout: default
 ---
+{% for collection in site.collections %}
+  <li>
+    <h6 class="post-meta">{{ collection.name }}</h6>
+
+    <h2>
+      {{ issue.title }}
+    </h2>
+  </li>
+{% endfor %}
+
+<div class="posts">
+  {% for collection in site.collections %}
+    <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ collection.name }}">{{ collection.name }}</a></h1>
+    </article>
+  {% endfor %}
+</div>
 
 <div class="posts">
   {% for post in site.posts %}
