@@ -22,20 +22,11 @@ layout: default
 </div>
 
 <h1>Categorized by year</h1>
- 
-
-<h1>Newest notes</h1>
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    <h2 id="y{{currentdate}}">{{ currentdate }}</h2>
+    {% assign date = currentdate %} 
+  {% endif %}
+    <a href="{{ post.url }}">{{ post.title }}</a>
+{% endfor %}
