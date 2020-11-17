@@ -19,3 +19,4 @@ A place to include any other types of information that you'd like to include abo
 ### License
 * https://github.com/barryclark/jekyll-now
 * https://codepen.io/shunyadezain/pen/GRqoWdG
+* https://ryanfb.github.io/etc/2020/04/27/last_modified_dates_for_github_pages_jekyll_posts.html
