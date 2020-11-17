@@ -12,6 +12,8 @@ Hello, I am a CS major at Seoul National University. I made this website while s
 
 I am interested in web development.
 
+You can check my GitHub repo, but there will be nothing interesting, because most of my repositories are private.
+
 ### Contact me
 
 [chanu@snu.ac.kr](mailto:chanu@snu.ac.kr)
@@ -21,5 +23,5 @@ I am interested in web development.
 * https://codepen.io/shunyadezain/pen/GRqoWdG - The folders design in home
 * https://github.com/benweet/stackedit - Used for editing articles
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjE2NDUwNSwxNTA2NjQ3MzMyXX0=
+eyJoaXN0b3J5IjpbODY4NTQzNzEsMTUwNjY0NzMzMl19
 -->
