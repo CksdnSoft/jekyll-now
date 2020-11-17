@@ -19,9 +19,13 @@ You can check my GitHub repo, but there will be nothing interesting, because mos
 [chanu@snu.ac.kr](mailto:chanu@snu.ac.kr)
 
 ### License
-* https://github.com/barryclark/jekyll-now - The whole site's general layout and design
-* https://codepen.io/shunyadezain/pen/GRqoWdG - The folders design in home
-* https://github.com/benweet/stackedit - Used for editing articles
+* https://github.com/barryclark/jekyll-now
+Jekyll-now: Website's general layout and design
+* https://codepen.io/shunyadezain/pen/GRqoWdG
+Folders design in home
+* https://github.com/benweet/stackedit
+Stackedit: Used for editing articles
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjc5MTA5NywxNTA2NjQ3MzMyXX0=
+eyJoaXN0b3J5IjpbMTMwMzAzNzE2MSwxNTIyNzkxMDk3LDE1MD
+Y2NDczMzJdfQ==
 -->
