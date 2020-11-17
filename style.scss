@@ -252,6 +252,9 @@ nav {
 }
 
 .post {
+  .entry br {display: none;}
+  .entry p br {display: inline;}
+	
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
