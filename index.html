@@ -2,26 +2,34 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for collection in site.collections %}
-    <div class="folder">
-      <div class="folder__back">
-        <div class="paper"></div>
-        <div class="paper"></div>
-        <div class="paper"></div>
-        <div class="folder__front"></div>
-        <div class="folder__front right"></div>
+<p>This is a collection of all the notes I created from 2020.</p>
+<br/>
+<div class="folder_list">
+  {% for category in site.categories %}
+    <a href="{{ site.baseurl }}{{ category[0] }}">
+      <div class="folder">
+        <div class="folder__back">
+          <div class="paper"></div>
+          <div class="paper"></div>
+          <div class="paper"></div>
+          <div class="folder__front"></div>
+          <div class="folder__front right"></div>
+        </div>
+        <span>{{category[0]}} ({{ category[1].size }})</span>
       </div>
-      <a href="{{ site.baseurl }}{{ collection.label }}">{{ collection.label }}</a>
-    </div>
+    </a>
   {% endfor %}
 </div>
 
+<h1>Categorized by year</h1>
+ 
+
+<h1>Newest notes</h1>
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
       <div class="entry">
         {{ post.excerpt }}

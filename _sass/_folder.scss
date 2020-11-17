@@ -1,8 +1,14 @@
 $folderColor: #70a1ff;
 $paperColor: #ffffff;
 
+.folder_list {
+  display: flex;
+  flex-direction: row;
+}
+
 .folder {
   transition: all 0.2s ease-in;
+  margin: 0 10px;
 
   &__back {
     position: relative;

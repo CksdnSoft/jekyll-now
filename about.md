@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, I am a full-stack web developer in South Korea.
 
 ### More Information
 
@@ -15,5 +15,5 @@ A place to include any other types of information that you'd like to include abo
 [email@domain.com](mailto:email@domain.com)
 
 ### License
-
-https://codepen.io/shunyadezain/pen/GRqoWdG
+*https://github.com/barryclark/jekyll-now
+*https://codepen.io/shunyadezain/pen/GRqoWdG

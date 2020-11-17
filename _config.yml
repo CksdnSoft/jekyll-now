@@ -14,7 +14,14 @@ avatar: https://avatars0.githubusercontent.com/u/71373121?s=400&v=4
 collections:
   python3:
     output: true
-    permalink: /:collection/:name
+  css:
+    output: true
+  mysql:
+    output: true
+  sass:
+    output: true
+  flask:
+    output: true
 #
 # Flags below are optional
 #
@@ -22,15 +29,15 @@ collections:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: 
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: cksdnsoft
+  instagram: chanu_png
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -57,7 +64,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+permalink: /:categories/:name
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
