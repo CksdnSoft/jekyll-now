@@ -8,12 +8,6 @@ Hello, I am a CS major at Seoul National University. I made this website while s
 
 저는 현재 서울대학교 컴퓨터공학부에 재학중인 학부생입니다.
 
-### Information
-
-I am interested in web development.
-
-You can check my GitHub repo, but there will be nothing interesting, because most of my repositories are private. I am shy when it comes to showing my code...
-
 ### Contact me
 
 [chanu@snu.ac.kr](mailto:chanu@snu.ac.kr)
