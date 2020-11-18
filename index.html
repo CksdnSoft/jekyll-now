@@ -21,7 +21,7 @@ layout: default
   {% endfor %}
 </div>
 
-<h1>Categorized by year</h1>
+<h1>Timeline</h1>
 {% for post in site.posts %}
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
