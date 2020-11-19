@@ -29,5 +29,5 @@ layout: default
     {% assign date = currentdate %} 
   {% endif %}
     {{post.path}}
-    <a href="{{ post.url }}">{{ post.title }}</a><br/>
+    <a href="{{ post.url }}">{{ post.title | split:'/' | third}}</a><br/>
 {% endfor %}
