@@ -28,6 +28,6 @@ layout: default
     <h2 id="y{{currentdate}}">{{ currentdate }}</h2>
     {% assign date = currentdate %} 
   {% endif %}
-    {{post.path}}
-    <a href="{{ post.url }}">{{ post.title | split:'/' | third}}</a><br/>
+    {{post.path | split:'/' | third}}
+    <a href="{{ post.url }}">{{ post.title }}</a><br/>
 {% endfor %}
