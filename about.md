@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, I am a CS major at Seoul National University. I made this website while studying to be a full-stack developer. I am also interested in operating systems, databases, and computer networks. I am not into algorithms and artificial intelligence.
+Hello, I am a CS major at Seoul National University. I made this website while studying to be a full-stack developer. I am also interested in operating systems, databases, encrpytion and computer networks. I am not into algorithms and artificial intelligence.
 
 저는 현재 서울대학교 컴퓨터공학부에 재학중인 학부생입니다.
 
@@ -20,6 +20,6 @@ Folders design in home
 * https://github.com/benweet/stackedit
 Stackedit: Used for editing articles
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzMDY4OTE0LDEzMDMwMzcxNjEsMTUyMj
-c5MTA5NywxNTA2NjQ3MzMyXX0=
+eyJoaXN0b3J5IjpbLTE4NzU0ODU1MDcsODgzMDY4OTE0LDEzMD
+MwMzcxNjEsMTUyMjc5MTA5NywxNTA2NjQ3MzMyXX0=
 -->
