@@ -1,7 +1,7 @@
 ---
 layout: category
-category: encryption
+category: C C++
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDc0OTY1NV19
+eyJoaXN0b3J5IjpbLTE1NzU2NDU3NzZdfQ==
 -->
