@@ -11,6 +11,7 @@ Hello, I am a CS major at Seoul National University. I made this website while s
 [chanu@snu.ac.kr](mailto:chanu@snu.ac.kr)
 
 ### Links
+[Github](https://github.com/CksdnSoft)
 [Repl.it](https://repl.it/@CksdnSoft)
 [CodePen](https://codepen.io/cksdnsoft)
 
@@ -22,7 +23,7 @@ Folders design in home
 * https://github.com/benweet/stackedit
 Stackedit: Used for editing articles
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTU4MzIzLDEyMjA1OTU2MjcsODgzMD
-Y4OTE0LDEzMDMwMzcxNjEsMTUyMjc5MTA5NywxNTA2NjQ3MzMy
-XX0=
+eyJoaXN0b3J5IjpbLTIwMjU2MzQ1NzYsMTIyMDU5NTYyNyw4OD
+MwNjg5MTQsMTMwMzAzNzE2MSwxNTIyNzkxMDk3LDE1MDY2NDcz
+MzJdfQ==
 -->
