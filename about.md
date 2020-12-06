@@ -3,14 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
-
 Hello, I am a CS major at Seoul National University. I made this website while studying to be a full-stack developer. I am also interested in operating systems, databases, encryption (+ mathematics), and computer networks. I am not into algorithms and artificial intelligence.
 
 저는 현재 서울대학교 컴퓨터공학부에 재학중인 학부생입니다.
 
-### Contact me
-
+### Contact
 [chanu@snu.ac.kr](mailto:chanu@snu.ac.kr)
+
+### Links
+[Repl.it - CksdnSoft (Cksdnsoft)](https://repl.it/@CksdnSoft)
 
 ### License
 * https://github.com/barryclark/jekyll-now
@@ -20,6 +21,7 @@ Folders design in home
 * https://github.com/benweet/stackedit
 Stackedit: Used for editing articles
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDU5NTYyNyw4ODMwNjg5MTQsMTMwMz
-AzNzE2MSwxNTIyNzkxMDk3LDE1MDY2NDczMzJdfQ==
+eyJoaXN0b3J5IjpbMjExNjE0NDEyNywxMjIwNTk1NjI3LDg4Mz
+A2ODkxNCwxMzAzMDM3MTYxLDE1MjI3OTEwOTcsMTUwNjY0NzMz
+Ml19
 -->
